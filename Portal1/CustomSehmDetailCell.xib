@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Dosis-Medium.otf">
+            <string>Dosis-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="CustomCell1" rowHeight="52" id="Whh-Gk-gaQ" customClass="CustomSehmDetailCell" customModule="Portal1" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="343" height="52"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Whh-Gk-gaQ" id="SdI-mi-Psi">
+                <rect key="frame" x="0.0" y="0.0" width="343" height="51.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Investisiya musabiqeleri / Senaye" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QC3-JS-Cyw">
+                        <rect key="frame" x="0.0" y="16" width="343" height="19.5"/>
+                        <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="20"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="QC3-JS-Cyw" firstAttribute="leading" secondItem="SdI-mi-Psi" secondAttribute="leading" id="aPb-ye-nRC"/>
+                    <constraint firstAttribute="bottom" secondItem="QC3-JS-Cyw" secondAttribute="bottom" constant="16" id="aZZ-Ib-SX5"/>
+                    <constraint firstItem="QC3-JS-Cyw" firstAttribute="top" secondItem="SdI-mi-Psi" secondAttribute="top" constant="16" id="odw-wz-uow"/>
+                    <constraint firstAttribute="trailing" secondItem="QC3-JS-Cyw" secondAttribute="trailing" id="uTl-Uo-NX7"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="bottomConstraint" destination="aZZ-Ib-SX5" id="Mmd-aO-i5E"/>
+                <outlet property="listName" destination="QC3-JS-Cyw" id="113-ty-OvV"/>
+                <outlet property="topConstraint" destination="odw-wz-uow" id="WyG-51-OIY"/>
+            </connections>
+            <point key="canvasLocation" x="-75.5" y="-136"/>
+        </tableViewCell>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="CustomCell2" rowHeight="82" id="KWJ-cG-gTh" customClass="CustomSehmDetailCell" customModule="Portal1" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="343" height="82"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="KWJ-cG-gTh" id="f7p-Cs-24e">
+                <rect key="frame" x="0.0" y="0.0" width="343" height="81.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="b8A-kd-Tqh">
+                        <rect key="frame" x="3" y="1" width="337" height="75.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="74." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qv7-gX-E6e">
+                                <rect key="frame" x="16" y="16" width="20.5" height="24.5"/>
+                                <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Beyleqan buzxana" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F2U-rp-PJF">
+                                <rect key="frame" x="46.5" y="16" width="274.5" height="17"/>
+                                <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No234" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Znj-zp-Tv5">
+                                <rect key="frame" x="46.5" y="35" width="100" height="24.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="JHc-ON-rAf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="19"/>
+                                <color key="textColor" red="0.4823529412" green="0.4823529412" blue="0.4823529412" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="11.11.2018" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZmJ-um-2m4">
+                                <rect key="frame" x="176.5" y="35" width="100" height="24.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="GQ5-w7-gm4"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="19"/>
+                                <color key="textColor" red="0.4823529412" green="0.4823529412" blue="0.4823529412" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Qv7-gX-E6e" firstAttribute="top" secondItem="b8A-kd-Tqh" secondAttribute="top" constant="16" id="A29-xi-0b1"/>
+                            <constraint firstItem="Znj-zp-Tv5" firstAttribute="top" secondItem="F2U-rp-PJF" secondAttribute="bottom" constant="2" id="IOh-EM-VQd"/>
+                            <constraint firstItem="Qv7-gX-E6e" firstAttribute="leading" secondItem="b8A-kd-Tqh" secondAttribute="leading" constant="16" id="UKg-VX-90f"/>
+                            <constraint firstItem="ZmJ-um-2m4" firstAttribute="leading" secondItem="Znj-zp-Tv5" secondAttribute="trailing" constant="30" id="Ubg-sw-xLv"/>
+                            <constraint firstItem="Znj-zp-Tv5" firstAttribute="leading" secondItem="F2U-rp-PJF" secondAttribute="leading" id="ZeA-6f-2aj"/>
+                            <constraint firstItem="F2U-rp-PJF" firstAttribute="top" secondItem="b8A-kd-Tqh" secondAttribute="top" constant="16" id="bGC-hX-aIP"/>
+                            <constraint firstAttribute="bottom" secondItem="ZmJ-um-2m4" secondAttribute="bottom" constant="16" id="bJi-Ao-Z9k"/>
+                            <constraint firstAttribute="bottom" secondItem="Znj-zp-Tv5" secondAttribute="bottom" constant="16" id="llU-VG-pbT"/>
+                            <constraint firstAttribute="trailing" secondItem="F2U-rp-PJF" secondAttribute="trailing" constant="16" id="mPs-7c-CNF"/>
+                            <constraint firstItem="F2U-rp-PJF" firstAttribute="leading" secondItem="Qv7-gX-E6e" secondAttribute="trailing" constant="10" id="nPf-Fq-SI7"/>
+                            <constraint firstItem="ZmJ-um-2m4" firstAttribute="top" secondItem="F2U-rp-PJF" secondAttribute="bottom" constant="2" id="wqs-7d-Cos"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="b8A-kd-Tqh" secondAttribute="bottom" constant="5" id="2lG-zO-PFS"/>
+                    <constraint firstAttribute="trailing" secondItem="b8A-kd-Tqh" secondAttribute="trailing" constant="3" id="7cL-0S-RWZ"/>
+                    <constraint firstItem="b8A-kd-Tqh" firstAttribute="leading" secondItem="f7p-Cs-24e" secondAttribute="leading" constant="3" id="Zaz-HP-RWK"/>
+                    <constraint firstItem="b8A-kd-Tqh" firstAttribute="top" secondItem="f7p-Cs-24e" secondAttribute="top" constant="1" id="qFs-Dd-uAi"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="listItemDetail1" destination="Znj-zp-Tv5" id="2dg-Su-v61"/>
+                <outlet property="listItemDetail2" destination="ZmJ-um-2m4" id="sRD-rR-d6j"/>
+                <outlet property="listItemName" destination="F2U-rp-PJF" id="XzN-kR-wzJ"/>
+                <outlet property="listNumber" destination="Qv7-gX-E6e" id="MAM-Sd-cK5"/>
+                <outlet property="parentView" destination="b8A-kd-Tqh" id="7KA-hW-Dep"/>
+            </connections>
+            <point key="canvasLocation" x="-75.5" y="-1"/>
+        </tableViewCell>
+    </objects>
+</document>

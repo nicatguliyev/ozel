@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.663862"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.664418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564690326.410457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564690326.413675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564690326.4168611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564690326.419921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.665062"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.6657031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.__deallocating_deinit"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563098836.8013639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563098836.805993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563098836.81068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563098836.815397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563098836.819993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.666234"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.menuVisible.getter : Swift.Bool"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564689801.021378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.menuVisible.setter : Swift.Bool"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564689801.064919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564689801.0683891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "564689801.07204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.666805"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536166.3242691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536166.328351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536166.332857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4848">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536166.33691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4619">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.667357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "731"
+            endingLineNumber = "731"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/SehmdarViewController.swift"
+            timestampString = "565163267.1841201"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.SehmdarViewController.__deallocating_deinit"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/SehmdarViewController.swift"
+                  timestampString = "564141476.714372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.SehmdarViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.SehmdarViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/SehmdarViewController.swift"
+                  timestampString = "564141476.718533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.SehmdarViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.SehmdarViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/SehmdarViewController.swift"
+                  timestampString = "564141476.72245"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.SehmdarViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.SehmdarViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/SehmdarViewController.swift"
+                  timestampString = "564141476.7274179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.SehmdarViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.SehmdarViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/SehmdarViewController.swift"
+                  timestampString = "564141476.731905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/SehmdarDetail2Controller.swift"
+            timestampString = "565163267.184918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.6679339"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
+            landmarkName = "herracTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/NewsViewController.swift"
+            timestampString = "565270597.668457"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536455.8788"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.investArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536455.883557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Portal1.NewsViewController"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536455.888293"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4848">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portal1.NewsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Portal1.NewsViewController&gt;"
+                  moduleName = "Portal1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicatguliyev/Desktop/Portal/Portal1/Portal1/NewsViewController.swift"
+                  timestampString = "563536455.8929369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4619">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/KicikDovletController.swift"
+            timestampString = "564493099.6518871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portal1/CustomSifarisCell.swift"
+            timestampString = "563574544.188189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

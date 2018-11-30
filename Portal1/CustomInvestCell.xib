@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Dosis-Medium.otf">
+            <string>Dosis-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="CustomInvestCell" customModule="Portal1" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+        </tableViewCell>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="investCell1" rowHeight="45" id="uy8-4I-fRJ" customClass="CustomInvestCell" customModule="Portal1" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="343" height="45"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="uy8-4I-fRJ" id="m9R-Av-hJd">
+                <rect key="frame" x="0.0" y="0.0" width="343" height="44.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bakı Dəzgahqayırma Açıq Səhmdar Cəmiyyəti" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VVO-JU-GgK">
+                        <rect key="frame" x="41" y="14" width="286" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="filledCircle.png" translatesAutoresizingMaskIntoConstraints="NO" id="fSH-58-KIi">
+                        <rect key="frame" x="16" y="20" width="15" height="15"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="15" id="7Ov-ns-Sgh"/>
+                            <constraint firstAttribute="width" constant="15" id="hFH-PU-1o8"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="VVO-JU-GgK" firstAttribute="top" secondItem="m9R-Av-hJd" secondAttribute="top" constant="14" id="Rcm-Fi-24d"/>
+                    <constraint firstItem="VVO-JU-GgK" firstAttribute="leading" secondItem="fSH-58-KIi" secondAttribute="trailing" constant="10" id="TCJ-S5-tKX"/>
+                    <constraint firstAttribute="bottom" secondItem="VVO-JU-GgK" secondAttribute="bottom" constant="16" id="jU4-rY-6eH"/>
+                    <constraint firstItem="fSH-58-KIi" firstAttribute="top" secondItem="m9R-Av-hJd" secondAttribute="top" constant="20" id="n82-ye-gPX"/>
+                    <constraint firstAttribute="trailing" secondItem="VVO-JU-GgK" secondAttribute="trailing" constant="16" id="t2H-Q1-2CY"/>
+                    <constraint firstItem="fSH-58-KIi" firstAttribute="leading" secondItem="m9R-Av-hJd" secondAttribute="leading" constant="16" id="uLH-dj-20O"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="listItemName" destination="VVO-JU-GgK" id="0l7-Zx-pX7"/>
+            </connections>
+            <point key="canvasLocation" x="-60.5" y="-108.5"/>
+        </tableViewCell>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="investCell2" rowHeight="52" id="pMJ-HP-dL9" customClass="CustomInvestCell" customModule="Portal1" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="343" height="52"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="pMJ-HP-dL9" id="kxH-2o-GfJ">
+                <rect key="frame" x="0.0" y="0.0" width="343" height="51.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Investisiya musabiqeleri / Senaye" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P2y-Mi-cor">
+                        <rect key="frame" x="0.0" y="16" width="343" height="19.5"/>
+                        <fontDescription key="fontDescription" name="Dosis-Medium" family="Dosis" pointSize="20"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="P2y-Mi-cor" secondAttribute="trailing" id="GUE-h3-qht"/>
+                    <constraint firstItem="P2y-Mi-cor" firstAttribute="top" secondItem="kxH-2o-GfJ" secondAttribute="top" constant="16" id="KHg-gl-YIr"/>
+                    <constraint firstAttribute="bottom" secondItem="P2y-Mi-cor" secondAttribute="bottom" constant="16" id="jfw-2a-FjA"/>
+                    <constraint firstItem="P2y-Mi-cor" firstAttribute="leading" secondItem="kxH-2o-GfJ" secondAttribute="leading" id="n0G-42-9vM"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="listName" destination="P2y-Mi-cor" id="HFG-fZ-6En"/>
+            </connections>
+            <point key="canvasLocation" x="-61" y="43"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="filledCircle.png" width="50" height="50"/>
+    </resources>
+</document>

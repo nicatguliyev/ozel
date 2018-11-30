@@ -1,0 +1,39 @@
+PODS:
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.6.0):
+    - GoogleMaps/Base (= 2.6.0)
+  - KMPlaceholderTextView (1.3.0)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+  - SwiftyButton (0.8.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - KMPlaceholderTextView
+  - SDWebImage (~> 4.0)
+  - SwiftyButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - KMPlaceholderTextView
+    - SDWebImage
+    - SwiftyButton
+
+SPEC CHECKSUMS:
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SwiftyButton: 093e3fe2becf3ae31c0f6c1c6987b79a93fb3ecb
+
+PODFILE CHECKSUM: 1deb78ebb7d83da9e5fd61e18e30ab41b98806ff
+
+COCOAPODS: 1.5.3
